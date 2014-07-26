@@ -8,6 +8,14 @@
 # Java class files
 *.class
 
+# Idea files
+.idea/
+ChromaColor.iml
+ant.properties
+build.xml
+proguard-project.txt
+project.properties
+
 # Generated files
 bin/
 gen/
